@@ -9,7 +9,7 @@ import MyApprovals from '../components/MyApprovals';
 import CheckInOut from '../components/CheckInOut';
 // Import other screens similarly
 
-const Stack = createStackNavigator();
+
 
 const index = () => {
   return (
